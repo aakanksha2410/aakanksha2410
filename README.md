@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aakanksha2410
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning 3rd year of Computer Engineering
+- 🌱 I’m currently learning 4th year of Computer Engineering
 - 📫 My mail id - patil.aarohi2000@gmail.com
 
 <!---
